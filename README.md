@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about technology and graphic design
 - 🌱 I’m currently learning Data structures and algorithms
 
-- 📫 How to reach me : @harshitachavva9@gmail.com
+- 📫 How to reach me : @harshitachavva9@gmail.com | https://www.linkedin.com/in/harshita-chavva-86b417316/ 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Emotional, Ambitious and always chasing meaning.
 
