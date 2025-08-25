@@ -8,7 +8,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML-yellow?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=for-the-badgek)
+![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-green?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
