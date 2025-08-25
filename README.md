@@ -12,6 +12,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![C](https://img.shields.io/badge/C-green?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
+![Graphic Design](https://img.shields.io/badge/GraphicDesign-pink?style=for-the-badge)
 
 
 
