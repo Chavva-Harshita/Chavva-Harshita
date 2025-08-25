@@ -6,12 +6,12 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Emotional, Ambitious and always chasing meaning.
 
-![HTML](https://img.shields.io/badge/HTML-yellow?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-yellow?style=for-the-badge&logo=react&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=react&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![C](https://img.shields.io/badge/C-green?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
+![C](https://img.shields.io/badge/C-green?style=for-the-badge&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=react&logoColor=black)
 ![Graphic Design](https://img.shields.io/badge/GraphicDesign-pink?style=for-the-badge)
 
 
