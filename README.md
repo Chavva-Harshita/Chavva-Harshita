@@ -13,6 +13,7 @@
 ![C](https://img.shields.io/badge/C-green?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
 ![Graphic Design](https://img.shields.io/badge/GraphicDesign-pink?style=for-the-badge)
+![Github](https://img.shields.io/badge/Github-green?style=for-the-badge)
 
 
 
