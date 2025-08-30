@@ -14,6 +14,7 @@
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
 ![Graphic Design](https://img.shields.io/badge/GraphicDesign-pink?style=for-the-badge)
 ![Github](https://img.shields.io/badge/Github-green?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge)
 
 
 
