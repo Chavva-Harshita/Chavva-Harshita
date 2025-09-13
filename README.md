@@ -17,6 +17,12 @@
 ![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge)
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)
+
+
+
 
 
 
