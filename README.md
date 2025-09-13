@@ -16,7 +16,12 @@
 ![Github](https://img.shields.io/badge/Github-green?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge)
 
+### 📊 GitHub Contribution Stats
+![Stats](https://github-contributor-stats.vercel.app/api?username=Chavva-Harshita&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![snake gif](https://github.com/Chavva-Harshita/Chavva-Harshita/blob/output/github-contribution-grid-snake.svg)
+
+![Metrics](https://raw.githubusercontent.com/Chavva-Harshita/Chavva-Harshita/main/github-metrics.svg)
 
 
 
