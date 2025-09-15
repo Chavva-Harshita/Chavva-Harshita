@@ -19,6 +19,12 @@
 ### 📊 GitHub Contribution Stats
 ![Stats](https://github-contributor-stats.vercel.app/api?username=Chavva-Harshita&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chavva-Harshita&layout=compact&theme=radical)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Chavva-Harshita&theme=onedark)
+
+
+
 
 
 
