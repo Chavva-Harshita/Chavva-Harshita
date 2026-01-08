@@ -56,7 +56,6 @@ Emotionally driven, ambitiously wired, and forever chasing **meaning over medioc
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chavva-Harshita&layout=compact&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Chavva-Harshita&theme=onedark)
 
 
 
