@@ -67,13 +67,7 @@
 
 ---
 
-# 💻 Most Used Languages  
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chavva-Harshita&layout=compact&theme=radical"/>
-</p>
-
----
 
 # 🤝 Let’s Connect  
 
