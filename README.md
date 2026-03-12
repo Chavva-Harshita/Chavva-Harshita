@@ -48,6 +48,7 @@
 
 ### 🎨 Design
 ![Graphic Design](https://img.shields.io/badge/GraphicDesign-pink?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-yellow?style=for-the-badge)
 
 ---
 
