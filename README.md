@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Harshita%20Chavva&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Chavva-Harshita&label=Profile%20views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Chavva-Harshita&label=Profile%20views&color=green&style=flat"/>
 </p>
 
 <h3 align="center">Curious Mind • Tech Explorer • Design Enthusiast</h3>
